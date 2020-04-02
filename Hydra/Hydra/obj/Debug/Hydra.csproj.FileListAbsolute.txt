@@ -1,0 +1,15 @@
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\bin\Debug\Hydra.exe.config
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\bin\Debug\Hydra.exe
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\bin\Debug\Hydra.pdb
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.csprojAssemblyReference.cache
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form1.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form2.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form3.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form4.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form5.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Form6.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.Properties.Resources.resources
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.GenerateResource.cache
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.CoreCompileInputs.cache
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.exe
+C:\Users\Balla Botond\source\repos\Hydra\Hydra\obj\Debug\Hydra.pdb
